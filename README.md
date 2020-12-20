@@ -25,10 +25,11 @@ Tecnologico Nacional de Mexico, Instituto Tecnológico de Tijuana, Departamento 
 
 :bookmark: [DB](https://github.com/CotaVilla/ProyectoArq2020/tree/main/DB)
 
-#### Codigo de la pagina utilizada:
+#### Código de la página utilizada:
 
 :bookmark: [WebPage](https://github.com/CotaVilla/ProyectoArq2020/tree/main/Pagina)
 
-#### Codigo de arduino implementado:
+#### Código de arduino implementado:
 
 :bookmark: [Arduino](https://github.com/CotaVilla/ProyectoArq2020/tree/main/Arduino)
+
