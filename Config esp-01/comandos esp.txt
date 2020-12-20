@@ -1,0 +1,7 @@
+AT //Checar si funcion
+
+AT+RST //Reset
+
+AT+GMR //Version
+
+AT+CIOBAUD=9600 //Bajar frecuencia
