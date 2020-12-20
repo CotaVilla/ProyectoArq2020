@@ -19,16 +19,16 @@ Tecnologico Nacional de Mexico, Instituto Tecnológico de Tijuana, Departamento 
 ## :spoon: Contenido
 #### Material necesario para programar y utilizar el ESP-01:
 
-:bookmark: [ESP-01]([../README.md](https://github.com/CotaVilla/Sistemas-Programables/blob/master/blog/C1.2_EdyCota_Dream_Team.md))
+:bookmark: [ESP-01](https://github.com/CotaVilla/ProyectoArq2020/tree/main/Config%20esp-01)
 
 #### Base de datos utilizada en PHPMYADMIN de la pagina web:
 
-:bookmark: [DB]([../README.md](https://github.com/CotaVilla/Sistemas-Programables/blob/master/blog/C1.2_EdyCota_Dream_Team.md))
+:bookmark: [DB](https://github.com/CotaVilla/ProyectoArq2020/tree/main/DB)
 
 #### Codigo de la pagina utilizada:
 
-:bookmark: [WebPage]([../README.md](https://github.com/CotaVilla/Sistemas-Programables/blob/master/blog/C1.2_EdyCota_Dream_Team.md))
+:bookmark: [WebPage](https://github.com/CotaVilla/ProyectoArq2020/tree/main/Pagina)
 
 #### Codigo de arduino implementado:
 
-:bookmark: [Arduino]([../README.md](https://github.com/CotaVilla/Sistemas-Programables/blob/master/blog/C1.2_EdyCota_Dream_Team.md))
+:bookmark: [Arduino](https://github.com/CotaVilla/ProyectoArq2020/tree/main/Arduino)
